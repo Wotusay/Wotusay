@@ -4,7 +4,7 @@ Hi, I'm Wout, i'm a full stack web developer / designer..
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently studying design & development;
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Three.js
+- 🌱 I’m currently learning Vue.js
 
 
 **Languages and Tools:**
