@@ -2,9 +2,8 @@ Hi, I'm Wout, i'm a full stack web developer / designer..
 
   
 **Talking about Personal Stuffs:**
-- 👨🏽‍💻 I’m currently studying design & development;
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Vue.js
+- 👨🏽‍💻 I’m currently working @Wheelhouse;
+- 👀 I’m interested in SwiftUI
 
 
 **Languages and Tools:**
