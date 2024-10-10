@@ -2,7 +2,7 @@ Hi, I'm Wout, i'm a full stack web developer / designer..
 
   
 **Talking about Personal Stuffs:**
-- 👨🏽‍💻 I’m currently working @Wheelhouse;
+- 👨🏽‍💻 I’m currently working @With Eleven;
 - 👀 I’m interested in SwiftUI
 
 
